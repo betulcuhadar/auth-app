@@ -1,0 +1,23 @@
+.centerText {
+  border: 1px solid black;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+.centerButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
